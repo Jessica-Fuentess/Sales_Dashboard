@@ -61,10 +61,11 @@ Análise geográfica que evidencia:
 
 ## 📂 Estrutura do Repositório
 ```text
-dashboard-vendas/
-├── Dashboard_Vendas.pbix
+Sales_Dashboard/
+├── Sales Dashboard.pbix
+├── Sales Data.xlsx
 ├── images/
-│   └── sales_dashboard.png
+│   └── sales_dashboard.jpg
 ├── README.md
 ````
 ---
